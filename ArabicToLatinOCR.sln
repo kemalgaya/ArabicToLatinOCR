@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ArabicToLatinOCR1", "..\ArabicToLatinOCR1\ArabicToLatinOCR1.pyproj", "{E664DC0A-89B6-47CE-9C13-BF163E630C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E664DC0A-89B6-47CE-9C13-BF163E630C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E664DC0A-89B6-47CE-9C13-BF163E630C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5ECABE-CBB4-4891-AB35-8C06D60D98CF}
+	EndGlobalSection
+EndGlobal
